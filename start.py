@@ -1,3 +1,4 @@
 print("Hello")
 print("hello jwalini")
-print("hello maidam")
+print("hello madam")
+age=int(input("enter age:"))
